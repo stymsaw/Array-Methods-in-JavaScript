@@ -1,6 +1,8 @@
 ## DOM Array Methods
 
-Project to teach high order array methods and DOM manipulation
+Project to practice high order array methods and DOM manipulation
+
+#### Live Preview :- https://stymsaw.github.io/Array-Methods-in-JavaScript/
 
 ## Project Specifications
 
